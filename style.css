@@ -12,18 +12,21 @@ body {
 }
 
 h1 {
+  font-style: italic;
   font-weight: 900;
   font-size: 36px;
   color: red;
 }
 
 h2 {
+  font-style: italic;
   font-weight: 600;
   font-size: 24px;
   color: green;
 }
 
 h3 {
+  font-style: italic;
   font-weight: normal;
   font-size: 18px;
   color: darkgreen;
