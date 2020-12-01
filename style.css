@@ -12,14 +12,17 @@ body {
 }
 
 h1 {
+  font-size: 36px;
   color: red;
 }
 
 h2 {
+  font-size: 24px;
   color: green;
 }
 
 h3 {
+  font-size: 18px;
   color: darkgreen;
 }
 
