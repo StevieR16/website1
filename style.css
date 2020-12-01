@@ -12,16 +12,19 @@ body {
 }
 
 h1 {
+  font-weight: normal;
   font-size: 36px;
   color: red;
 }
 
 h2 {
+  font-weight: normal;
   font-size: 24px;
   color: green;
 }
 
 h3 {
+  font-weight: normal;
   font-size: 18px;
   color: darkgreen;
 }
@@ -32,8 +35,4 @@ footer {
 
 {
   font-famlily: 'castoro', lato;
-}
-
-h1, h2, h3, {
-  font-weight: 900;
 }
