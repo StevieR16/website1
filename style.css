@@ -4,6 +4,7 @@
   font-size: 100;
   margin: 0;
   line-height: 1;
+  box-sizing: border-box;
   /* border: 1px solid red; */
 }
 
@@ -84,4 +85,8 @@ footer {
 
 header {
   border-top: 5px solid grey;
+}
+
+img {
+  width: 400px;
 }
