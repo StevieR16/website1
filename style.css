@@ -81,3 +81,7 @@ section,
 footer {
   padding: 30px;
 }
+
+header {
+  border-bottom: 5px solid grey;
+}
