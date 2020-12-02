@@ -9,6 +9,7 @@
 }
 
 body {
+  background-image: url(images/watercolor.png);
   background-color: deepskyblue;
   color:indigo;
   font-family: helvetica; arial;
@@ -94,4 +95,9 @@ img {
 .title {
   font-size 48px;
   text-decoration: underline;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
 }
