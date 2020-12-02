@@ -9,6 +9,7 @@
 }
 
 body {
+  background-repeat: repeat;
   background-image: url(images/watercolor.png);
   background-color: deepskyblue;
   color:indigo;
