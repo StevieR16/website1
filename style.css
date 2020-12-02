@@ -39,3 +39,7 @@ footer {
 {
   font-famlily: 'castoro', lato;
 }
+
+p {
+  line-height: 2;
+}
