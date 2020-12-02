@@ -45,5 +45,9 @@ p {
 }
 
 h1 {
+  text-align: left;
+}
+
+header h1 {
   text-align: center;
 }
