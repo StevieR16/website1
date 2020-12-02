@@ -12,7 +12,6 @@ body {
   color:indigo;
   font-family: helvetica; arial;
   font-size: 20px;
-  margin: 50px;
 }
 
 h1 {
@@ -75,4 +74,10 @@ p {
 
 ul, ol {
   margin: 15px 0;
+}
+
+header,
+section,
+footer {
+  padding: 30px;
 }
