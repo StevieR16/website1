@@ -56,3 +56,7 @@ a {
   colour: red;
   text-decoration: none;
 }
+
+a:hover {
+  text-decoration: underline;
+}
