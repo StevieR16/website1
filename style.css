@@ -51,3 +51,8 @@ h1 {
 header h1 {
   text-align: center;
 }
+
+a {
+  colour: red;
+  text-decoration: none;
+}
