@@ -9,7 +9,7 @@
 }
 
 body {
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-image: url(images/beverages.jpg);
   background-color: lightblue;
   color:indigo;
