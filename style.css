@@ -10,7 +10,7 @@
 
 body {
   background-repeat: repeat;
-  background-image: url(images/beverages.jpg);
+  background-image: url(images/watercolor.jpg);
   background-color: lightblue;
   color:indigo;
   font-family: helvetica; arial;
@@ -105,7 +105,7 @@ img {
 
 .banner {
   height: 350px;
-  background-image: url(images/watercolor.png);
+  background-image: url(images/beverages.png);
   background-size: cover;
   background-position: center;
 }
